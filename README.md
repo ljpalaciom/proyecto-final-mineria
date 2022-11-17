@@ -1,6 +1,7 @@
 # Proyecto final minería de datos
 ## Estudiantes
 Juan Camilo Gómez Betancur
+
 Luis Javier Palacio Mesa
 
 ## Descripción
