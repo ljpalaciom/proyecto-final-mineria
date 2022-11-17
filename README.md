@@ -18,7 +18,6 @@ similares usando Local Sensitive Hashing
 
 # Pre_requisitos
 
-* Se debe abrir en google colab
-* Se debe subir el dataset en drive y proveer la ruta para correr el código.
+* Esta diseñado para correr en google colab, desde allí se hace la descarga del dataset que está en s3
 
 
