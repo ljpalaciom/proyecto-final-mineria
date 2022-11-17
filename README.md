@@ -18,6 +18,7 @@ similares usando Local Sensitive Hashing
 
 # Pre_requisitos
 
+* Se debe abrir en google colab
 * Se debe subir el dataset en drive y proveer la ruta para correr el código.
 
 
